@@ -1,6 +1,6 @@
 # Handwritten_Digit_Recognition
 
-Dimensionality reduction of MNIST (Modified National Institute of Standards and Technology) data using PCA and t-SNE and Predicting the Handwritten Digits using Neural Networks.
+Dimensionality reduction of MNIST (Modified National Institute of Standards and Technology) data using PCA and t-SNE and Predicting the Handwritten Digits using Neural Networks in AZURE ML.
 
 In Part 1 of the code, I had done dimensionality reduction of MNIST data set using PCA and t-SNE.
 
