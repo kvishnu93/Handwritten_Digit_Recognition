@@ -10,4 +10,4 @@ In Part 2_Phase 2 code, I had used Aritifical Neural Networks to build my model 
 
 I had saved my model in Hierarchical Data Format (HDF) and named as digit_predict.h5
 
-Further, I had used loaded my model with saved model in new_model and predicted the hand written digits.
+Further, I had loaded my model with saved model in new_model and predicted the hand written digits.
